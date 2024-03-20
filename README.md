@@ -15,9 +15,9 @@ In this project, we explore fundamental image processing techniques for filterin
 
 ## Getting Started
 
-To get started with this project, ensure you have Python and OpenCV installed on your system. You can install OpenCV using the following command:
+Install the required packages using the requirements.txt file:
 
-`pip install opencv-python`
+`pip install -r requirements.txt`
 
 Clone this repository to your local machine and explore the provided Python scripts for implementing different image filtering and enhancement techniques.
 
